@@ -27,11 +27,11 @@ public class TestClass1 {
         driver.navigate().to("https://www.LinkedIn.com");
         System.out.println("Test 1 complete" + driver.getTitle());
     }
-    @Test
-    public void Test2(){
-        driver.navigate().to("https://www.LinkedIn.com");
-        System.out.println("Test 2 complete" + driver.getTitle());
-    }
+//    @Test
+//    public void Test2(){
+//        driver.navigate().to("https://www.LinkedIn.com");
+//        System.out.println("Test 2 complete" + driver.getTitle());
+//    }
     @Test
     public void Test3(){
         driver.navigate().to("https://www.LinkedIn.com");
